@@ -10,8 +10,8 @@ This repository is a check list which is the fourth term practices in KB IT's yo
 
 | 항목 | 디렉토리 명 | 기본 | 심화 | 
 |------|:----:|:----:|:----:|
-| 01 | [01_servelt](https://github.com/yoon2fy/KBITs_Back_study/tree/main/01%20Servlet%26JSP) | ☑ | ☑ |
-| 02 | [02_servelt]() | ☐ | ☐ |
+| 01 | [01_servelt](https://github.com/yoon2fy/KBITs_Back_study/tree/main/01%20Servlet%26JSP/01_servelt) | ☑ | ☑ |
+| 02 | [02_servelt](https://github.com/yoon2fy/KBITs_Back_study/tree/main/01%20Servlet%26JSP/02_servelt) | ☑ | ☑ |
 | 03 | [03_servelt]() | ☐ | ☐ |
 | 04 | [04_servelt]() | ☐ | ☐ |
 | 05 | [05_servelt]() | ☐ | ☐ |
