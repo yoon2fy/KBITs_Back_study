@@ -13,7 +13,7 @@ This repository is a check list which is the fourth term practices in KB IT's yo
 | 01 | [01_servelt](https://github.com/yoon2fy/KBITs_Back_study/tree/main/01%20Servlet%26JSP/01_servelt) | ☑ | ☑ |
 | 02 | [02_servelt](https://github.com/yoon2fy/KBITs_Back_study/tree/main/01%20Servlet%26JSP/02_servelt) | ☑ | ☑ |
 | 03 | [03_jsp](https://github.com/yoon2fy/KBITs_Back_study/tree/main/01%20Servlet%26JSP/03_jsp) | ☑ | ☑ |
-| 04 | [04_jsp]() | ☐ | ☐ |
+| 04 | [04_jsp](https://github.com/yoon2fy/KBITs_Back_study/tree/main/01%20Servlet%26JSP/04_jsp) | ☑ | ☐ |
 | 05 | [05_jsp]() | ☐ | ☐ |
 
 ## 02 Spring Framework를 활용한 애플리케이션 개발
