@@ -20,14 +20,6 @@ This repository is a check list which is the fourth term practices in KB IT's yo
 
 | 항목 | 디렉토리 명 | 기본 | 심화 | 
 |------|:----:|:----:|:----:|
-| 01 | [01_spring]() | ☐ | ☐ |
-| 02 | [02_spring]() | ☐ | ☐ |
-| 03 | [03_spring]() | ☐ | ☐ |
-| 04 | [04_spring]() | ☐ | ☐ |
-| 05 | [05_spring]() | ☐ | ☐ |
-| 06 | [06_spring]() | ☐ | ☐ |
-| 07 | [07_spring]() | ☐ | ☐ |
-| 08 | [08_spring]() | ☐ | ☐ |
-| 09 | [09_spring]() | ☐ | ☐ |
-| 10 | [10_spring]() | ☐ | ☐ |
-| 11 | [11_spring]() | ☐ | ☐ |
+| 01 | [01_spring](https://github.com/yoon2fy/KBITs_Back_study/tree/main/02%20Spring/01_spring) | ☑ | - |
+| 02 | [02-1_spring](https://github.com/yoon2fy/KBITs_Back_study/tree/main/02%20Spring/02-1_spring) | ☑ | ☑ |
+| 03 | [02-2_spring]() | ☐ | ☐ |
