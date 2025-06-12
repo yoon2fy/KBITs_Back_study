@@ -33,5 +33,37 @@ GRANT ALL PRIVILEGES ON scoula_db.* TO 'scoula'@'%';
 ---
 
 *03_spring(advance)*
-# 스프링 MySQL Database 연동
+# 스프링 MySQL Database 연동 (심화1)
+📝 MyBatis와 관련된 의존 라이브러리를 추가하세요.
+
+📝 mybatis 설정 파일을 만들고 기본 설정 구조를 추가하세요. (`📄 main/resources/mybatis-config.xml`)
+
+📝 `📄 config/RootConfig.java`에 MyBatis를 위한 기본 설정을 하세요.
+- SqlSessionFactory 빈 등록 --> 정상 등록 되었는지 확인하기 (TDD 방식).
+- DataSourceTransactionManager 빈 등록 --> 정상 등록 되었는지 확인하기 (TDD 방식).
+
+📝 다음처럼 `📄 TimeMapper.java` 인터페이스를 추가하세요.
+- 경로: /org/scoula/mapper
+- `String getTime()` 메서드에 현재 시간을 리턴하는 쿼리를 연결하세요. ( *@Select* )
+
+📝 `📄 RootConfig.java`에 Mapper를 스캔하는 설정을 추가하세요. ( *@MapperScan()* )
+
+📝 다음처럼 **단위 테스트** `📄 TimeMapperTest.java`를 생성하고, 앞에서 작성한 `getTime()` 메서드를 테스트하세요.
+
+📝 `log4jdbc-log4j2` 의존성을 프로젝트에 추가하세요.
+
+📝 `📄 resources/log4jdbc.log4j2.properties`에 `log4jdbc-log4j2` 설정을 추가하세요.
+
+📝 `📄 application.properties`에서 DataSource 연결을 위한 드라이버 클래스명과 접속 url을 수정하세요.
+
+📝 `📄 log4j2.xml`을 다음과 같이 수정하세요.
+- 기본 로그 레벨: info
+- 단위 테스트용
+- main 운영용
+
+</br>
+
+# 스프링 MySQL Database 연동 (심화2)
+해당 프로젝트를 템플릿으로 등록하세요.
+- File > New Project Setup > Save Project As Template ...
 
